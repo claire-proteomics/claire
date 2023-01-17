@@ -1,1 +1,1 @@
-The repository is a temporary place for tracking issues related to Claire software (github.com/claire-proteomics/claire), which is currently a private repository. 
+This repository is a temporary place for tracking issues related to Claire software (https://github.com/claire-proteomics/claire). The repository for Claire software is, during the peer review, a private repository.
